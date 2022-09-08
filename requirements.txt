@@ -1,0 +1,8 @@
+requests==2.0.0
+numpy==1.18.2
+baked===0.2.2
+pytest-blockage==0.1
+django-statsd-patches==0.0.1
+django==2.2.3
+snipit==1.0
+mongars==0.6.0
